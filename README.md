@@ -1,4 +1,4 @@
-# Parallax Website Landing Page.
+# Parallax Website Landing Page
 
 This is my first attempt at creating a parallax landing page. All designs and cutouts have been solely created by me.
 
